@@ -10,5 +10,5 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 #### Advanced Join
 
 ## License
-This repository is licensed under MIT License - see [License] (https://github.com/PJcs293/HackerRank-SQL-Challenges/blob/main/LICENSE) for more details.
+This repository is licensed under MIT License - see [License](https://github.com/PJcs293/HackerRank-SQL-Challenges/blob/main/LICENSE) for more details.
 
